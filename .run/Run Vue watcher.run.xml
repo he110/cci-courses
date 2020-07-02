@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Project" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="dev-server" />
+    </scripts>
+    <node-interpreter value="project" />
+    <envs />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Symfony Server" run_configuration_type="ShConfigurationType" />
+      <option name="LaunchBrowser.Before.Run" url="http://127.0.0.1:8000" />
+    </method>
+  </configuration>
+</component>
